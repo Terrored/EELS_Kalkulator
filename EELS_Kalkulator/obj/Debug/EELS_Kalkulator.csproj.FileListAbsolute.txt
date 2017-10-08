@@ -1,0 +1,10 @@
+C:\Users\Daniel Wilkiewicz\source\repos\EELS_Kalkulator\EELS_Kalkulator\bin\Debug\EELS_Kalkulator.exe.config
+C:\Users\Daniel Wilkiewicz\source\repos\EELS_Kalkulator\EELS_Kalkulator\bin\Debug\EELS_Kalkulator.exe
+C:\Users\Daniel Wilkiewicz\source\repos\EELS_Kalkulator\EELS_Kalkulator\bin\Debug\EELS_Kalkulator.pdb
+C:\Users\Daniel Wilkiewicz\source\repos\EELS_Kalkulator\EELS_Kalkulator\obj\Debug\EELS_Kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Wilkiewicz\source\repos\EELS_Kalkulator\EELS_Kalkulator\obj\Debug\EELS_Kalkulator.Form1.resources
+C:\Users\Daniel Wilkiewicz\source\repos\EELS_Kalkulator\EELS_Kalkulator\obj\Debug\EELS_Kalkulator.Properties.Resources.resources
+C:\Users\Daniel Wilkiewicz\source\repos\EELS_Kalkulator\EELS_Kalkulator\obj\Debug\EELS_Kalkulator.csproj.GenerateResource.Cache
+C:\Users\Daniel Wilkiewicz\source\repos\EELS_Kalkulator\EELS_Kalkulator\obj\Debug\EELS_Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Wilkiewicz\source\repos\EELS_Kalkulator\EELS_Kalkulator\obj\Debug\EELS_Kalkulator.exe
+C:\Users\Daniel Wilkiewicz\source\repos\EELS_Kalkulator\EELS_Kalkulator\obj\Debug\EELS_Kalkulator.pdb
